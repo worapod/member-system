@@ -3,7 +3,7 @@ worapod/worapod is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Hello 👋 I'm Jod Kritidet Chaijarung.
+Hello 👋 I'm Jod Kritidech Chayjarung.
 I have compiled scripts in various languages and most of them are shortcut techniques. 
 or command functions that are used frequently which I have explained and prepared teaching materials at
 YouTube https://www.youtube.com/channel/UCDr56kr4iAxHhTCKUByyErw
