@@ -2,25 +2,38 @@
 worapod/worapod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-สวัสดีครับ 👋 ผมจ๊อด กฤติเดช ฉายจรุง
-ผมได้รวบรวม Script หลากหลายภาษาและส่วนใหญ่เป็นเทคนิคทางลัด หรือฟังก์ชั่นคำสั่งที่ได้ใช้งานบ่อย ซึ่งผมได้อธิบายและจัดทำสื่อการสอนไว้ที่ 
+
+Hello 👋 I'm Jod Kritidet Chaijarung.
+I have compiled scripts in various languages and most of them are shortcut techniques. 
+or command functions that are used frequently which I have explained and prepared teaching materials at
 YouTube https://www.youtube.com/channel/UCDr56kr4iAxHhTCKUByyErw
-และโครงการอบรมในรูปแบบถ่ายทอดสด Live และการจัดอบรมในรูปแบบสื่อการสอนแบบบันทึก ไว้ที่ 🌱
+
+and training projects in the form of live broadcasts and training in the form of recorded teaching media at 🌱
 Facebook Page https://www.facebook.com/banrukcom.net/?ref=pages_you_manage
-สามารถเข้ารับฟังและติชมได้ดังลิงค์ต่อไปนี้ครับ
 
-จุดมุ่งหมายของการโครงการ
-1. เพื่อการพัฒนาโครงสร้างพื้นฐานดิจิทัลให้ครอบคลุมทุกพื้นที่ มีคุณสมบัติและความสามารถที่พอเพียงกับการใช้งาน มีเสถียรภาพที่มั่นคง 
-2. เพื่อเป็นพื้นฐานไปสู่การต่อยอดกิจกรรมการพัฒนามหาวิทยาลัยฯ อย่างมีประสิทธิภาพสูงสุด
-3. เพื่อการยกระดับเพิ่มขีดความสามารถของบุคลากรทางการศึกษานักศึกษาและประชาชนทั่วไป 
-   ด้วยการพัฒนาทักษะด้านเทคโนโลยีสารสนเทศและการสื่อสารสอดคล้องกับความต้องการทั้งภาคการศึกษา ภาคธุรกิจ และภาคอุตสาหกรรม 
-4. เพื่อพัฒนาบุคลากรให้มีความรู้และทักษะใหม่ๆ จนนำไปสู่การพัฒนาเป็นศูนย์ความเป็นเลิศทางวิชาการ
-3. เพื่อการพัฒนา Digital Content แบบบูรณาการ โดยการบูรณาการเนื้อหา สาระความรู้ บนระบบดิจิทัลทางด้านการศึกษา ด้านวัฒนธรรม
-   และด้านพัฒนาทักษะทางอาชีพ จนนำไปสู่การพัฒนาเป็นคอร์สการเรียนออนไลน์ระบบเปิดที่รองรับผู้เรียนจำนวนมาก (MOOC–Massive Open Online Course) 
-   และการเรียนเทคโนโลยีผ่าน Mobile Application
+project objectives
 
-โครงการที่กำลังเสนอและจัดทำ 
-1. Digital Economy 
-2. รวบรวมข้อมูลปัจจัยที่เกี่ยวข้องในการพัฒนาพื้นฐานองค์ความรู้ใหม่
-3. ร่วมกับการประยุกต์ใช้เทคโนโลยีดิจิทัลผ่านเครือข่ายอินเตอร์เน็ต
-4. ในรูปแบบเว็บไซต์, เว็บแอพพลิเคชั่น, และแอพพลิเคชั่นบนสมาร์ทโฟน 
+1. To develop digital infrastructure to cover all areas have the qualifications and capabilities that are sufficient for use stable stability
+
+2. To be the basis for further development activities of the university. most efficiently
+
+3. To enhance the capacity of educational personnel, students and the general public.
+   by developing information and communication technology skills in line with the needs of the education, business and industrial sectors
+   
+4. To develop personnel with new knowledge and skills leading to the development of a center of academic excellence
+
+3. For the development of integrated digital content by integrating content and knowledge on the digital system in terms of education and culture.
+   and the development of professional skills Until leading to the development of an open online course that supports a large number of learners
+   (MOOC–Massive Open Online Course) and learning technology through Mobile Application
+
+
+Projects that are being proposed and made
+1. Digital Economy
+
+2. Gather information on factors involved in developing a new knowledge base.
+
+3. Together with the application of digital technology through the Internet.
+
+4. In the form of websites, web applications, and smartphone applications.
+
+
