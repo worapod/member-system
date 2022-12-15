@@ -5,13 +5,13 @@ include ("function_connect_database.php");
 include ("func_code.php");
 
 
-
+/*
 print "<pre>";
 	print_r($_GET);
 	print_r($_POST);
 	print_r($_SESSION);
 print "</pre>";
-
+*/
 
 $system_check =  "Form Register";
 $btn_edit_member = " Continue to Register ";
